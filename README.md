@@ -52,3 +52,6 @@ Through this analysis, key trends and patterns in employment changes, commission
 ## 📈 Conclusion
 
 This project demonstrates how Excel can be used to analyze and visualize complex data, making it easier to draw insights and inform decision-making processes.
+
+## 💬 Feedback & Contributions
+ChatGPT
