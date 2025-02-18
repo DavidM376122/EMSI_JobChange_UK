@@ -5,8 +5,6 @@ Welcome to the **EMSI Job Change UK** project! In this project, I analyzed a dat
 
 ![image](https://github.com/user-attachments/assets/74db1fab-91c9-4ad7-89bd-70c975834f63)
 
-![image](https://github.com/user-attachments/assets/cbec7c57-73d6-4e2f-a24e-e8466bdb3665)
-
 ## 📌 Project Overview
 
 The dataset contains information about job changes, commission, and sales within the UK. By applying different Excel techniques, the goal of this project was to analyze trends in job changes and understand sales and commission patterns.
